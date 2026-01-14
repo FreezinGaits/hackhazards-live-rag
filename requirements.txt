@@ -1,0 +1,26 @@
+# pathway
+# pathway[xpack-llm]
+
+requests
+pandas
+python-dotenv
+
+langchain
+langchain-text-splitters
+tiktoken
+
+openai
+google-generativeai
+sentence-transformers
+
+fastapi
+uvicorn
+
+pydantic
+
+numpy
+tqdm
+loguru
+
+pytest
+black
